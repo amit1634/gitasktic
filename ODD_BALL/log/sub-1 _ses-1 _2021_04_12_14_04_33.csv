@@ -1,0 +1,3 @@
+cond,block_num,trial_num,press_glob_time,stim_on,isi_jit,rare_stim,isi,rt,common_stim,response,correct,rare_resp,correct_resp,stim,glob_init_time,common_resp
+common,1,1,10.91214144200785,1.1420090229948983,9,O,1.1254535249900073,0.01896351302275434,X,J,False,J,F,X,8.767045919958036,F
+common,1,2,14.346017481002491,1.167269691999536,9,O,1.151499435014557,0.0525802259799093,X,F,True,J,F,X,12.142981187964324,F
